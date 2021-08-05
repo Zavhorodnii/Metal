@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="88" viewBox="0 0 49 88">
+    <defs>
+        <path id="prefix__a" d="M0 0H33V79H0z"/>
+        <path id="prefix__c" d="M0 0L32.717 0 32.717 95.737 0 95.737z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="24.5" cy="63.5" r="24.5" fill="#FFF"/>
+        <g transform="translate(9)">
+            <mask id="prefix__b" fill="#fff">
+                <use xlink:href="#prefix__a"/>
+            </mask>
+            <g mask="url(#prefix__b)">
+                <g transform="translate(0 -21)">
+                    <mask id="prefix__d" fill="#fff">
+                        <use xlink:href="#prefix__c"/>
+                    </mask>
+                    <path fill="#1D1D1B" d="M27.407 10.217l-11.028 6.366-11.058-6.366 11.058-6.395 11.028 6.395zm-9.256 80.677V19.657l11.023-6.363v71.245l-11.023 6.355zM3.544 84.533V13.287l11.063 6.368v71.242L3.544 84.533zM.883 8.688c-.548.317-.883.9-.883 1.535V85.56c0 .635.341 1.218.888 1.535l14.608 8.403c.548.318 1.223.318 1.771 0l14.562-8.403c.554-.317.889-.9.889-1.535V10.223c0-.635-.335-1.218-.883-1.535L17.267.238c-.548-.317-1.228-.317-1.777 0L.883 8.688z" mask="url(#prefix__d)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
